@@ -31,7 +31,7 @@ a {
 }
 
 .container {
-	@include container(800px); 
+	@include container(900px); 
 	padding: 0;
 }
 
@@ -79,7 +79,7 @@ HEADER STYLING
 		-webkit-transform: translateY(-50%);
 		-ms-transform: translateY(-50%);
 		transform: translateY(-50%);
-		@include container(800px); 
+		@include container(900px); 
 	}
 
 	h1 {
@@ -231,7 +231,7 @@ FOOTER STYLES
 
 	.container {
 		padding: 1rem 0;
-		@include container(800px);
+		@include container(900px);
 	}
 }
 
