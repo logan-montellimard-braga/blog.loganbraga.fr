@@ -1,0 +1,26 @@
+title: Logan Braga
+description: Blog personnel de Logan Braga, développeur web et logiciel
+
+url: http://blog.loganbraga.fr
+baseurl: ""
+paginate_path: "articles/page:num/"
+permalink: articles/:title/
+email: braga.logan@gmail.com
+
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+
+navigation:
+ - title: Articles
+   url: /articles
+ - title: À Propos
+   url: /a-propos
+ - title: Site
+   url: http://loganbraga.fr
+
+social:
+   github: loganbraga
+   email: braga.logan@gmail.com
+
+google_analytics: "UA-60715874-4"
